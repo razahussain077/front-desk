@@ -1,5 +1,4 @@
 import Link from "next/link";
-import "./marketing.css";
 
 const ArrowUpRight = () => (
   <svg viewBox="0 0 20 20" aria-hidden="true">
