@@ -328,7 +328,7 @@ export default function Home() {
             <a href="#workflows">Workflows</a>
             <a href="#approach">Approach</a>
             <Link href="/demo">Live demo</Link>
-            <a href="https://www.linkedin.com/company/swiftlabor-ai/" target="_blank" rel="noreferrer">LinkedIn</a>
+            <a href="https://www.linkedin.com/in/raza-hussain-niazi-727993206" target="_blank" rel="noreferrer">LinkedIn</a>
           </div>
           <div className="footer-meta">© 2026 SwiftLabor.ai</div>
         </div>
